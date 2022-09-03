@@ -16,7 +16,7 @@ import ShopCompiled from './components/Compiled/ShopCompiled'
 import {AnimatePresence} from 'framer-motion'
 
 function App() {
-    const location = useLocation()
+     
   
        
     return (
@@ -25,9 +25,7 @@ function App() {
         <div className='nnam'>
             <AnimatePresence exitBeforeEnter
             initial={false}>
-                <Routes location={location}
-                key={location.pathname}
-                >
+                <Routes>
                      
                         <Route path='/' element={<Trending />} />
                         <Route path='/discount' element={<Discount />} />
@@ -38,7 +36,7 @@ function App() {
                      
                     
 
-                </Routes>
+              </Routes>
             </AnimatePresence>
             <div className="speed">
                 <Speed  /> 
