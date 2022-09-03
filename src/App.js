@@ -4,7 +4,7 @@ import './App.css'
 import Footer from './components/Landing/Footer'
 import Navbar from './components/Landing/Navbar'
  
-import { Route, Routes, useLocation} from 'react-router-dom'
+import { Route, Routes } from 'react-router-dom'
 import Compiled from './components/Compiled/BodyCompiled'
 import Discount from './components/files/Discount'
 import Joggers from './components/files/Joggers'
@@ -13,7 +13,7 @@ import Trending from './components/files/Trending'
 import About from './components/files/About'
 import Speed from './components/Landing/Speed'
 import ShopCompiled from './components/Compiled/ShopCompiled'
-import {AnimatePresence} from 'framer-motion'
+ 
 
 function App() {
      
@@ -23,8 +23,7 @@ function App() {
      <div className='myBox'>
         <Navbar />
         <div className='nnam'>
-            <AnimatePresence exitBeforeEnter
-            initial={false}>
+            
                 <Routes>
                      
                         <Route path='/' element={<Trending />} />
@@ -37,7 +36,7 @@ function App() {
                     
 
               </Routes>
-            </AnimatePresence>
+ 
             <div className="speed">
                 <Speed  /> 
             </div>
