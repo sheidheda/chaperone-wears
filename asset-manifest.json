@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/chaperone-wears/static/css/main.9cac8278.css",
-    "main.js": "/chaperone-wears/static/js/main.bfef1ec1.js",
+    "main.js": "/chaperone-wears/static/js/main.4b05beb2.js",
     "static/js/787.f4c1619d.chunk.js": "/chaperone-wears/static/js/787.f4c1619d.chunk.js",
     "index.html": "/chaperone-wears/index.html",
     "main.9cac8278.css.map": "/chaperone-wears/static/css/main.9cac8278.css.map",
-    "main.bfef1ec1.js.map": "/chaperone-wears/static/js/main.bfef1ec1.js.map",
+    "main.4b05beb2.js.map": "/chaperone-wears/static/js/main.4b05beb2.js.map",
     "787.f4c1619d.chunk.js.map": "/chaperone-wears/static/js/787.f4c1619d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9cac8278.css",
-    "static/js/main.bfef1ec1.js"
+    "static/js/main.4b05beb2.js"
   ]
 }
