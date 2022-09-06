@@ -45,10 +45,14 @@ function Trending() {
       <motion.div className='imgWrapper'>
         <motion.div className='discoverMore'>
             <p>CUSTOM <br />	&nbsp; WEARS</p>
+
             <Button
             sx={buttonSX}
             variant='contained'
+            LinkComponent={Link}
+            to='/about'
              >
+             
               DISCOVER MORE 
             </Button>
         </motion.div>

@@ -38,7 +38,9 @@ function About() {
         />
       </div>
       <div className="sideee2">
-     
+      <img src="https://images.unsplash.com/photo-1621370688441-8ce43a9903dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80" alt="vv" 
+        className='leftImg'
+        />
         <div className="inner-sideee2">
           <p>
           We are really proud of our Made in Aba. We want each customer to benefit from recognized know-how and expertise at an affordable price while guaranteeing working conditions that respect our employees and the environment.
@@ -51,9 +53,7 @@ function About() {
           </p>
           
         </div>
-        <img src="https://images.unsplash.com/photo-1621370688441-8ce43a9903dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80" alt="vv" 
-        className='leftImg'
-        />
+
       </div>
       
      

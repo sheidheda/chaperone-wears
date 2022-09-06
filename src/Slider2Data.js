@@ -1,3 +1,4 @@
+/* eslint-disable import/no-anonymous-default-export */
 export default [
     {
         image: "images/1.Suits.webp",

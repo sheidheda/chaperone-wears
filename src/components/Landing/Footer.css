@@ -30,11 +30,12 @@
     
     padding: 0;
     list-style: none;
-    font-size: 11px;
+    font-size: 17px;
 }
 .list h5{
     padding-bottom: 20px;
     padding-top: 20px;
+    font-size: 17px;
 }
 .men{
     display: flex;
@@ -60,7 +61,7 @@
     align-items: center;
     justify-content: center;
     gap: 40px;
-
+    font-size: 17px;
     margin-left: -40px;
     list-style: none;
     font-size: 11px;
@@ -70,6 +71,7 @@
     text-align: center;
     padding-bottom: 20px;
     padding-top: 20px;
+    
 }
 .join hr{
     height: 1px;
@@ -110,5 +112,5 @@
 #license{
     padding-left: 0px;
     text-align: center;
-    font-size: 11px;
+    font-size: 8px;
 }

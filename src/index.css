@@ -5,7 +5,7 @@
     
     font-family: 'Poppins', sans-serif;
     color: goldenrod;
-    
+    user-select: none;
 }
 body{
    min-width: 700px; 

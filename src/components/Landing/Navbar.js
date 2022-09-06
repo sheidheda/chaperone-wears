@@ -27,7 +27,7 @@ function Navbar() {
         <div>
         <Link to='/'> <img src="images/chap.png" alt="logo" className='logo'/> </Link>
         </div>
-        <BottomNavigation sx={{ width : "100%", backgroundColor:"rgba(0, 0, 0, 0)", gap:"20px",  }} value={value} onChange={handleChange}>
+        <BottomNavigation sx={{ width : "100%", backgroundColor:"rgba(0, 0, 0, 0)", gap:"0px",  }} value={value} onChange={handleChange}>
 
               <BottomNavigationAction
               label = "Joggers"

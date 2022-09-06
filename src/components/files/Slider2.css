@@ -15,9 +15,14 @@
     height: 60vh;
     overflow: hidden;
     margin: 0 6px;
-
+    
     
 }
+@media (orientation: landscape){
+#main_products .carousel  
+img {
+    height: 80vh;
+}}
 
 .baba img {
     /* width: 200px;

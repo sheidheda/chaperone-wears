@@ -17,7 +17,9 @@ function Slider2() {
 
   return (
     <div className='Slider2'>
-         <motion.div ref={carousel} className='carousel'>
+         <motion.div ref={carousel} className='carousel'
+         id='main_products'
+         >
             <motion.div
              drag = 'x' 
              className='inner-carousel'
