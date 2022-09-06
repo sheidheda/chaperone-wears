@@ -10,7 +10,7 @@ function Feedback(props) {
         <div className="innerContainer">
             <Avatar 
             src={props.image}
-            sx={{ width: 150, height: 150 }}
+            sx={{ width: 120, height: 120 }}
             />
             <h4>{props.review}</h4>
             <p>{props.user} - {props.location}</p>

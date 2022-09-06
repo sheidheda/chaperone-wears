@@ -19,15 +19,15 @@
 }
 #first{
     color: black;
-    padding: 30px 200px 40px 200px ;
+    padding: 2%;
     text-align: center;
     font-size: 30px;
 }
 .leftImg{
-    width: 80%;
+    width: 100%;
     height: 400px;
     object-fit: cover;
-    margin-left: 5%;
+    
     border-top-left-radius: 12px;
     border-top-right-radius: 12px;
     border-bottom-left-radius: 12px;
@@ -36,7 +36,7 @@
 }
 .sideee{
      background-color: rgba(128, 128, 128, 0.253);
-     padding: 20px 90px 20px 90px ;
+     padding:2%;
      
     gap: 0px;
     border-radius: 0px;
@@ -54,7 +54,7 @@
     text-align: center;
 }
 .sideee2{
-    padding: 20px 80px 20px 100px ;
+    padding: 2%;
    
     gap: 0px;
     border-radius: 40px;

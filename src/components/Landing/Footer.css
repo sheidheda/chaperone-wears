@@ -12,9 +12,9 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-left: 150px;
-    padding-right: 150px;
-    flex-wrap: wrap;
+    padding-left: 3%;
+    padding-right: 1%;
+    flex-wrap: nowrap;
    
     
      
@@ -30,12 +30,11 @@
     
     padding: 0;
     list-style: none;
-    font-size: 17px;
+    font-size: 11px;
 }
 .list h5{
     padding-bottom: 20px;
     padding-top: 20px;
-    font-size: 17px;
 }
 .men{
     display: flex;
@@ -61,7 +60,7 @@
     align-items: center;
     justify-content: center;
     gap: 40px;
-    font-size: 17px;
+
     margin-left: -40px;
     list-style: none;
     font-size: 11px;
@@ -71,7 +70,6 @@
     text-align: center;
     padding-bottom: 20px;
     padding-top: 20px;
-    
 }
 .join hr{
     height: 1px;
@@ -79,8 +77,8 @@
     background-color: rgb(90, 90, 90);
     margin-top: 10px;
     margin-bottom: 10px;
-    margin-left: 45%;
-    width: 10%;
+    margin-left: 40%;
+    width: 20%;
 }
 .pay{
     padding: 30px 300px;
@@ -92,7 +90,8 @@
     background-color: rgb(90, 90, 90);
     margin-top: 10px;
     margin-bottom: 10px;
-    width: 50%;
+    margin-left: 20%;
+    width: 60%;
 }
 .pay ul{
     display: flex;
@@ -112,5 +111,5 @@
 #license{
     padding-left: 0px;
     text-align: center;
-    font-size: 8px;
+    font-size: 11px;
 }

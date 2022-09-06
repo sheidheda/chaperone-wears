@@ -10,7 +10,7 @@
 }
 .shopItems{
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     gap: 20px;
     overflow-x: auto;
     padding: 50px 70px;
